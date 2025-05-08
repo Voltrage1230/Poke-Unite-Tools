@@ -18,6 +18,10 @@ Link to the privacy policy of third-party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   PacketSDK
+This app integrates PacketSDK to enhance its functionality. With your consent, PacketSDK may collect and share data, including your device's IP address, for analysis and measurement purposes. This data helps improve the app's services and supports developers in generating passive revenue, all without interrupting your user experience.
+You can opt out or modify your consent at any time through the app settings. By using this app, you agree to the collection and sharing of your data as described.
+For more details, please refer to the PacketSDK Terms of Service https://www.packetsdk.com/EULA.html and Privacy Policy https://www.packetsdk.com/protocol.html
 
 **Log Data**
 
